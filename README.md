@@ -16,7 +16,7 @@ Opcionalmente, faça o maior número possível dos itens abaixo:
   * Escreva arquivos `docker-compose.yml` para instanciar os containers.
   * Escreva arquivos de configuração para fazer o deploy desses servidores (assuma o uso de duas máquinas, uma para web e outro para o banco). A ferramenta de gerenciamento de configuração que sua preferimos é o Ansible, mas se não a conhecer, use uma outra com a qual se sinta confortável (Salt, Chef, Puppet etc)
   * Escreva arquivos de configuração para fazer deploy em Kubernetes.
-  * Faça um script que crie uma instância EC2 (pode ser spot) e que execute um script `xyz.sh` em sua inicialização. Pra simplificação, assuma que `xyz.sh` só faça um sleep de 60s. Ao fim do término de `xyz.sh`, a instância deve ser encerrada.
+  * Faça um script que crie uma instância EC2 (pode ser spot) e que execute um script `xyz.sh` em sua inicialização. Pra simplificação, assuma que `xyz.sh` só faça um sleep de 60s. Ao fim do término de `xyz.sh`, a instância deve ser encerrada.
 
 Note que a descrição não é complementamente detalhada de forma intencional. Você está livre para fazer suposições (contanto que as descreva claramente) e faça suas próprias melhorias que achar que possam fazer sentido.
 
