@@ -29,15 +29,11 @@ Note que a descrição não é complementamente detalhada de forma intencional. 
 
 ## O que levaremos em consideração
 
+Analisaremos:
 
-  * Corretude, robustez. 
-  
-  * Faça com qualidade. 
-  
-  * Use as melhoras práticas. 
-  
-  * Prefira fazer menos coisas e com qualidade a fazer mais coisas e de forma questionável.
-  
+  * Corretude, robustez  
+  * Faça com qualidade 
+  * Se as melhoras práticas foram adotadas 
+  * Qualidade (prefira fazer menos coisas e com qualiade a fazer mais e de forma questionável)
   * Simplicidade e legibilidade do código e da solução como um todo
-  
   * Possíveis melhorias em cima daquilo que foi proposto
