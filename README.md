@@ -11,7 +11,7 @@ Para este teste, como requerimento mínimo, implemente a chamada store. Grave os
 
 Opcionalmente, faça o maior número possível dos itens abaixo:
 
-  * Em vez de salvar os dados em um arquivo CSV, salve os dados em um banco de dados sql (Postgresql ou MySQL)
+  * Em vez de salvar os dados em um arquivo CSV, use um servidor de banco de dados.
   * Descreva possíveis melhorias para a API. Se possível, implemente-as.
   * Escreva arquivos `docker-compose.yml` para instanciar os containers.
   * Escreva arquivos de configuração para fazer o deploy desses servidores (assuma o uso de duas máquinas, uma para web e outro para o banco). A ferramenta de gerenciamento de configuração que sua preferimos é o Ansible, mas se não a conhecer, use uma outra com a qual se sinta confortável (Salt, Chef, Puppet etc)
