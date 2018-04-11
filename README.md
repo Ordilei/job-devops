@@ -1,11 +1,11 @@
 
 # O Desafio
 
-Queremos calcular o tempo médio de nossos deployments. Para tal, queremos implementar uma API REST que deve ser chamada no início e fim de cada deploy.
+Queremos calcular o tempo médio de nossos deployments. Para tal, precisamos implementar uma API REST que deve ser chamada no início e fim de cada deploy.
 
 A API deve suportar uma chamada *store* que receba os seguintes parâmetros: nome do componente que estamos fazendo deploy, se é um início ou fim de deploy e, caso seja um fim, o status (sucesso ou algum código de erro). 
 
-Para este teste, como requerimento mínimo, implemente a chamada store. Grave os parâmetros passados na chamada (junto com o timestamp) em um arquivo CSV de forma persistente. Use a linguagem e servidor web de sua preferência, mas precisa ser em Linux e usando docker.
+Para este teste, como requerimento mínimo, implemente a chamada store. Grave os parâmetros passados na chamada (junto com outros que achar necessário para atingir nossos objetivos) em um arquivo CSV de forma persistente. Use a linguagem e servidor web de sua preferência, mas precisa ser em Linux e usando docker.
 
 ## Opcionais
 
