@@ -31,9 +31,9 @@ Note que a descrição não é complementamente detalhada de forma intencional. 
 
 Analisaremos:
 
-  * Corretude, robustez  
-  * Faça com qualidade 
-  * Se as melhoras práticas foram adotadas 
-  * Qualidade (prefira fazer menos coisas e com qualiade a fazer mais e de forma questionável)
-  * Simplicidade e legibilidade do código e da solução como um todo
-  * Possíveis melhorias em cima daquilo que foi proposto
+  - Corretude, robustez  
+  - Faça com qualidade 
+  - Se as melhoras práticas foram adotadas 
+  - Qualidade (prefira fazer menos coisas e com qualiade a fazer mais e de forma questionável)
+  - Simplicidade e legibilidade do código e da solução como um todo
+  - Possíveis melhorias em cima daquilo que foi proposto
